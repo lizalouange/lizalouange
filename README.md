@@ -1,0 +1,11 @@
+- 👋 Hi, I’m Liza Louange
+- 👀 I’m interested in cyber security( penetretion testing)
+- 🌱 I’m currently learning web exploitation, artificial intelligence and machine learning
+- 💞️ I’m looking to collaborate on cyber security challenges like picoCTF and other challenges
+- 📫 How to reach me
+- __lis_a.a.h (insta)
+- mbabazilouangeliza@gmail.com
+- www.linkedin.com/in/mbabazi-louange-liza-6272a5261
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Stress Can Make You Physically Shorter. So, take a deep breath! Nobody wants to lose an inch.
+
